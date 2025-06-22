@@ -1,1 +1,1 @@
-use comman "make" to compile "sender" and "receiver" builds
+use command "make" to compile "sender" and "receiver" builds
